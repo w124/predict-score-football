@@ -1,0 +1,27 @@
+C:\Users\panna\Desktop\sss\sss\bin\Debug\sss.exe.config
+C:\Users\panna\Desktop\sss\sss\bin\Debug\sss.exe
+C:\Users\panna\Desktop\sss\sss\bin\Debug\sss.pdb
+C:\Users\panna\Desktop\sss\sss\obj\Debug\sss.csprojResolveAssemblyReference.cache
+C:\Users\panna\Desktop\sss\sss\obj\Debug\sss.Form1.resources
+C:\Users\panna\Desktop\sss\sss\obj\Debug\sss.Properties.Resources.resources
+C:\Users\panna\Desktop\sss\sss\obj\Debug\sss.csproj.GenerateResource.Cache
+C:\Users\panna\Desktop\sss\sss\obj\Debug\sss.exe
+C:\Users\panna\Desktop\sss\sss\obj\Debug\sss.pdb
+C:\Users\Sittinak pc.DESKTOP-JCRIRBU\Desktop\sss\sss\sss\bin\Debug\sss.exe.config
+C:\Users\Sittinak pc.DESKTOP-JCRIRBU\Desktop\sss\sss\sss\obj\Debug\sss.exe
+C:\Users\Sittinak pc.DESKTOP-JCRIRBU\Desktop\sss\sss\sss\obj\Debug\sss.pdb
+C:\Users\Sittinak pc.DESKTOP-JCRIRBU\Desktop\sss\sss\sss\bin\Debug\sss.exe
+C:\Users\Sittinak pc.DESKTOP-JCRIRBU\Desktop\sss\sss\sss\bin\Debug\sss.pdb
+C:\Users\Sittinak pc.DESKTOP-JCRIRBU\Desktop\sss\sss\sss\obj\Debug\sss.csprojResolveAssemblyReference.cache
+C:\Users\Sittinak pc.DESKTOP-JCRIRBU\Desktop\sss\sss\sss\obj\Debug\sss.Form1.resources
+C:\Users\Sittinak pc.DESKTOP-JCRIRBU\Desktop\sss\sss\sss\obj\Debug\sss.Properties.Resources.resources
+C:\Users\Sittinak pc.DESKTOP-JCRIRBU\Desktop\sss\sss\sss\obj\Debug\sss.csproj.GenerateResource.Cache
+C:\Users\Supachai\Desktop\sss\sss\sss\bin\Debug\sss.exe.config
+C:\Users\Supachai\Desktop\sss\sss\sss\obj\Debug\sss.exe
+C:\Users\Supachai\Desktop\sss\sss\sss\obj\Debug\sss.pdb
+C:\Users\Supachai\Desktop\sss\sss\sss\bin\Debug\sss.exe
+C:\Users\Supachai\Desktop\sss\sss\sss\bin\Debug\sss.pdb
+C:\Users\Supachai\Desktop\sss\sss\sss\obj\Debug\sss.Form1.resources
+C:\Users\Supachai\Desktop\sss\sss\sss\obj\Debug\sss.Properties.Resources.resources
+C:\Users\Supachai\Desktop\sss\sss\sss\obj\Debug\sss.csproj.GenerateResource.Cache
+C:\Users\Supachai\Desktop\sss\sss\sss\obj\Debug\sss.csprojResolveAssemblyReference.cache
